@@ -38,7 +38,6 @@ function iLoveTheBeatles(n) {
     }
   //ensures loop stops when the parameter number hits 15
   while (n<15);
-  //return array with the strings "I love the Beatles! repearted 
-  //the requisite number of times
+  //return array with the strings "I love the Beatles! repeated the requisite number of times
   return emptyArr
   }
