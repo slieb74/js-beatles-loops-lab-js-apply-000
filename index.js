@@ -33,8 +33,8 @@ function iLoveTheBeatles(n) {
   do {
     //add "I love the Beatles!" string to the array
     emptyArr.push("I love the Beatles!")
-   //increase counter variable
-   n++
+    //increase counter variable
+    n++
     }
   //ensures loop stops when the parameter number hits 15
   while (n<15);
